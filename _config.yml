@@ -22,7 +22,7 @@ process:
     order_by: modify
     reverse: True
     min_width: 600
-    watermark:
+    watermark: mhmdsahrudin
       thumbnail: False
       original: True
       fontsize: 40
