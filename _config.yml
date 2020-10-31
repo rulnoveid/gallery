@@ -29,7 +29,7 @@ process:
       fontfamily: Eczar-Medium.ttf
       rotate: 0
 
-instagram: https://instagram.com/mhmdsahrudin
+instagram: mhmdsahrudin
 
 sass:
   sass_dir: _sass
